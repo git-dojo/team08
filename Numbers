@@ -6,9 +6,9 @@
 05&&&
 06+
 07
-0814=MyBirthday!!!
-09
-10 for(;;){printf("Hello World!!");}
+08/14=MyBirthday!!!(How old are you?)
+09 // TODO infinity loop
+10 while(true){printf("Hello World!!");}
 20
 21hogehoge
 32
