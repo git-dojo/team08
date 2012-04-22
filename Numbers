@@ -1,12 +1,14 @@
-01(」・ω・)」うー(/・ω・)/にゃー Let's＼(・ω・)／にゃー
+01ワイルドだろぉ
+  途中を編集
 02 >>>>HEAD>>>>
 03 @@@
 04-
 05&&&
 06+
 07
-0814=MyBirthday!!!
-009
-10 for(;;){printf("Hello World!!");}
+08/14=MyBirthday!!!(How old are you?)
+009 // TODO infinity loop
+10 while(true){printf("Hello World!!");}
 20
 21hogehoge
+32
