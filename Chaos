@@ -1,4 +1,4 @@
- 1, rebase test01
+ 1, test
  2, rebase test02
  3, C 0x3
  4, D 0x4
